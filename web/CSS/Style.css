@@ -1,0 +1,43 @@
+.tooltip-styling{
+    background: #414347 !important;
+    color: white !important;
+    border-radius: 10px;
+}
+
+.dbImgIn{
+    width: 10%;
+    margin-left: 10%;
+    margin-top: 5%;
+    background-color: red;
+    border-radius: 10px;
+}
+
+.dbImgAm{
+    width: 10%;
+    margin-left: 10%;
+    margin-top: 5%;
+    background-color: yellow;
+    border-radius: 10px;
+}
+
+.dbImgAct{
+    width: 10%;
+    margin-left: 10%;
+    margin-top: 5%;
+    background-color: greenyellow;
+    border-radius: 10px;
+}
+
+.barraHeaderSGA{
+    margin-bottom: 5%;
+}
+
+.infoDB{
+    border: solid grey 2px;
+    margin-left: 10%;
+    margin-right: 70%;
+    padding: 1%;
+    border-radius: 10px;
+}
+
+
